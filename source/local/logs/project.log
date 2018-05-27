@@ -1,0 +1,63 @@
+2018-05-26T23:43:35.231Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-26T23:43:35.237Z - normal: checking language setting...
+2018-05-26T23:43:35.237Z - normal: Language: en
+2018-05-26T23:43:37.077Z - success: protocol editor-framework registered
+2018-05-26T23:43:37.077Z - success: protocol app registered
+2018-05-26T23:43:37.078Z - success: protocol theme registered
+2018-05-26T23:43:37.078Z - success: protocol packages registered
+2018-05-26T23:43:37.078Z - success: protocol unpack registerred
+2018-05-26T23:43:37.078Z - success: protocol disable-commonjs registerred
+2018-05-26T23:43:37.612Z - normal: connected!
+2018-05-26T23:43:37.614Z - normal: Check project D:\ChuChot\Save_Your_Children_Cocos
+2018-05-26T23:43:37.616Z - normal: Initializing Cocos2d
+2018-05-26T23:43:37.852Z - normal: Initializing Asset Database
+2018-05-26T23:43:37.889Z - success: protocol uuid registerred
+2018-05-26T23:43:37.889Z - success: protocol db registerred
+2018-05-26T23:43:37.889Z - success: protocol thumbnail registerred
+2018-05-26T23:43:37.889Z - normal: Loading editor/builtin packages
+2018-05-26T23:43:37.911Z - success: anysdk loaded
+2018-05-26T23:43:38.050Z - success: assets loaded
+2018-05-26T23:43:38.052Z - success: builder loaded
+2018-05-26T23:43:38.055Z - success: cocos-analytics loaded
+2018-05-26T23:43:38.058Z - success: console loaded
+2018-05-26T23:43:38.102Z - success: fb-instant-games loaded
+2018-05-26T23:43:38.106Z - success: hierarchy loaded
+2018-05-26T23:43:38.109Z - success: inspector loaded
+2018-05-26T23:43:38.112Z - success: keystore loaded
+2018-05-26T23:43:38.115Z - success: node-library loaded
+2018-05-26T23:43:38.117Z - success: package-asset loaded
+2018-05-26T23:43:38.120Z - success: preferences loaded
+2018-05-26T23:43:38.121Z - success: project-exporter loaded
+2018-05-26T23:43:38.137Z - success: project-importer loaded
+2018-05-26T23:43:38.140Z - success: project-settings loaded
+2018-05-26T23:43:38.142Z - success: ui-kit loaded
+2018-05-26T23:43:38.144Z - success: ui-grid loaded
+2018-05-26T23:43:38.147Z - success: scene loaded
+2018-05-26T23:43:38.148Z - success: sprite-editor loaded
+2018-05-26T23:43:38.152Z - success: store loaded
+2018-05-26T23:43:38.156Z - success: timeline loaded
+2018-05-26T23:43:38.156Z - normal: Loading builtin packages
+2018-05-26T23:43:38.158Z - success: asset-db-debugger loaded
+2018-05-26T23:43:38.160Z - success: code-editor loaded
+2018-05-26T23:43:38.160Z - success: color-picker loaded
+2018-05-26T23:43:38.163Z - success: package-manager loaded
+2018-05-26T23:43:38.233Z - success: sdkbox loaded
+2018-05-26T23:43:38.237Z - success: tester loaded
+2018-05-26T23:43:38.238Z - normal: last time update is in one day
+2018-05-26T23:43:38.240Z - success: ui-kit-preview-extra loaded
+2018-05-26T23:43:38.242Z - success: ui-kit-preview loaded
+2018-05-26T23:43:38.244Z - success: ui-tree loaded
+2018-05-26T23:43:39.639Z - normal: Initializing project D:\ChuChot\Save_Your_Children_Cocos
+2018-05-26T23:43:39.642Z - normal: Loading packages
+2018-05-26T23:43:39.647Z - normal: Watching packages
+2018-05-26T23:43:39.659Z - normal: Run Application
+2018-05-26T23:43:39.920Z - failed: [db-task][init] uuid collision, the uuid for D:\ChuChot\Save_Your_Children_Cocos\assets\scoreFX.prefab is already in used by D:\ChuChot\Save_Your_Children_Cocos\assets\resources\scoreFX.prefab. Assigning a new uuid.
+2018-05-26T23:43:39.921Z - failed: [db-task][init] uuid collision, the uuid for D:\ChuChot\Save_Your_Children_Cocos\assets\Star.prefab is already in used by D:\ChuChot\Save_Your_Children_Cocos\assets\resources\Star.prefab. Assigning a new uuid.
+2018-05-26T23:43:40.358Z - success: preview server running at http://localhost:7456
+2018-05-26T23:43:46.567Z - normal: 1.9.1
+2018-05-26T23:43:46.781Z - warn: The id already added in the tree: 8ff27be6-af39-49d6-9ba1-e6e11d99c32f
+2018-05-26T23:43:47.680Z - warn: The Asset used by component "cc.Sprite" in prefab "Star.prefab" is missing. Detailed information:
+Node path: "Star"
+Asset url: "db://assets/Star.prefab"
+Missing uuid: "star2"
+

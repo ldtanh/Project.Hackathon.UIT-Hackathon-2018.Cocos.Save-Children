@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1_thungphi_25",
+    "texture": "c8f052a4-27d3-463a-8bc6-657888b157f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      51,
+      81
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      51,
+      81
+    ]
+  }
+}

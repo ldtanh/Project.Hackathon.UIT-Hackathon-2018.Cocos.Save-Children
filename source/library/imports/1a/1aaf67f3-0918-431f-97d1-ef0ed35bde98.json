@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "menuscreen_Artboard 1",
+    "texture": "3cd9abf2-b2c7-4ecb-a563-7684b60f59ea",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4000,
+      2667
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4000,
+      2667
+    ]
+  }
+}

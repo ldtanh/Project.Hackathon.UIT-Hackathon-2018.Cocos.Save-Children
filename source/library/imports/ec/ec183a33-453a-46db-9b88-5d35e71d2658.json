@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playscreen_Artboard_1",
+    "texture": "f06e11f7-8102-449b-a1a2-20a16f0f52f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4000,
+      2667
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4000,
+      2667
+    ]
+  }
+}

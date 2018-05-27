@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1_sandal_5",
+    "texture": "5e8790ed-fa86-480c-b849-37737b67c15c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      55,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      55,
+      79
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1_handfork_20",
+    "texture": "de70432a-b665-4e0f-ae08-96aa240aed8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      78
+    ]
+  }
+}

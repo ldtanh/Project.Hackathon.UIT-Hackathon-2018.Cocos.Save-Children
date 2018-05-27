@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ded70112-8ae6-4b1f-adc6-dc1abadfee4a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "RiceSpoon": {
+      "ver": "1.0.3",
+      "uuid": "6c3ac9a9-300b-4830-8cad-dca04b2d448d",
+      "rawTextureUuid": "ded70112-8ae6-4b1f-adc6-dc1abadfee4a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 205,
+      "height": 150,
+      "rawWidth": 205,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
